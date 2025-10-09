@@ -26,11 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Mingxuan Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short Bio"
+  bio              : "Bachelor's candidate ｜ QMUL & BUPT Dual Degree"
   location         : "Beijing, China"
-  employer         : |
-    Queen Mary University of London
-    Beijing University of Posts and Telecommunications
+  employer         : "QMUL & BUPT"
   uri              : # URL
   email            : "jp2023213373@qmul.ac.uk"
 
