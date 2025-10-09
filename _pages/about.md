@@ -57,4 +57,4 @@ I believe in lifelong learning and enjoy collaborating with others on meaningful
 
 ---
 
-📫 **Let’s Connect:** Feel free to reach out via [QMUL email](jp2023213373@qmul.ac.uk) / [QQ email](2899648689@qq.com) or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile).
+📫 **Let’s Connect:** Feel free to reach out via jp2023213373@qmul.ac.uk / 2899648689@qq.com or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile).
