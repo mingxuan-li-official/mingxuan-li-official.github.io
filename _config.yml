@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Mingxuan Li"
   pronouns         : # example: "she/her"  
-  bio              : |
+  bio              : "Short Bio"
+  location         : "Beijing, China"
+  employer         : |
     Queen Mary University of London
     Beijing University of Posts and Telecommunications
-  location         : "Beijing, China"
-  employer         : # Universities' Name
   uri              : # URL
   email            : "jp2023213373@qmul.ac.uk"
 
