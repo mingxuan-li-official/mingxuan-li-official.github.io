@@ -1,16 +1,11 @@
 ---
 permalink: /
-title: "Introduce"
+title: "👋 Hi there, I'm Mingxuan Li"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# 👋 Hi there, I'm Mingxuan Li
-
----
-
 ## 🌱 About Me
 
 I am currently pursuing my **Bachelor’s degree in IOT** at **Queen Mary University of London** and **Beijing University of Posts and Telecommunications**, with a strong interest in **Operations Research, Artificial Intelligence, and Optimization Algorithms**.  
