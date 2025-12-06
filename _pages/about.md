@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## 🌱 About Me
+## About Me
 
 I am currently pursuing my **Bachelor’s degree in IOT** at **Queen Mary University of London** and **Beijing University of Posts and Telecommunications**, with a strong interest in **Operations Research, Artificial Intelligence, and Optimization Algorithms**.  
 My academic journey focuses on exploring efficient computational methods to solve complex real-world problems.
@@ -31,14 +31,10 @@ My academic journey focuses on exploring efficient computational methods to solv
 ## 🏆 Achievements & Activities
 
 - 🥇 14th APMCM Asia-Pacific Mathematical Contest in Modeling – Second Price[2024]
-- 💼 [Internship / Research Assistant] at [Institution or Company]
-- 🎤 Presented at [Conference / Event Name]
 
 ---
 
 ## 📘 Publications & Writing
-
-- [“Paper Title”](#) – *Conference or Journal Name*, [Year]
 
 ---
 
