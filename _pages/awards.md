@@ -1,8 +1,7 @@
 ---
 permalink: /awards/
-title: "Awards"
+title: "Awards & Certificates"
 ---
-# Awards & Certificates
 
 ## IEEE Conference on Systems, Process & Control
 **Dec 5, 2025 – Dec 6, 2025**
