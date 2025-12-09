@@ -8,6 +8,7 @@ title: "Awards & Certificates"
 
 ### Conference Introduction
 The *IEEE Conference on Systems, Process & Control (ISPC)* serves as a premier platform for researchers, industry leaders, and innovators to explore groundbreaking advancements in Artificial Intelligence, Machine Learning & Intelligent Systems, Control, Information and Systems Engineering, System Identification, Instrumentation, Automation and Robotics, Signal Processing, Speech Processing, Image Processing and others. Under the theme "Innovations in Technology", this conference will highlight transformative trends, emerging technologies, and innovative solutions that shape the future of technology and engineering.
+
 ---
 
 ## Conference Presentation
