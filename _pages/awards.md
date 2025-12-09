@@ -15,7 +15,7 @@ The *IEEE Conference on Systems, Process & Control (ISPC)* serves as a premier p
 ### Presentation Photo
 
 <div align="center">
-  <img src="images/ispc_presentation.jpg" alt="Presentation at IEEE SPC 2025" width="70%">
+  <img src="/images/ispc_presentation.jpg" alt="Presentation at IEEE ISPC 2025" width="70%">
 </div>
 
 ---
@@ -23,7 +23,7 @@ The *IEEE Conference on Systems, Process & Control (ISPC)* serves as a premier p
 ## Certificate
 
 <div align="center">
-  <img src="/files/ICSPC 2025 - PARTICIPANT - ID 180.png">
+  <img src="/images/ICSP-2025-PARTICIPANT-ID-180_1.png">
 </div>
 
 ## Additional Information
