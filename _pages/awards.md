@@ -44,12 +44,15 @@ The conference serves as a platform for presenting original research, exchanging
 ---
 
 ## Certificate
-> *Insert certificate image if available.*
 
 <div align="center">
-  <img src="assets/images/spc_certificate.jpg" alt="IEEE SPC Certificate" width="60%">
+  <iframe 
+    src="/files/ICSPC 2025 - PARTICIPANT - ID 180.pdf"
+    width="80%"
+    height="600px"
+    style="border: none;">
+  </iframe>
 </div>
-
 ---
 
 ## 🔗 Additional Information
