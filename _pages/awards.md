@@ -47,7 +47,7 @@ The conference serves as a platform for presenting original research, exchanging
 
 <div align="center">
   <iframe 
-    src="/files/ICSPC 2025 - PARTICIPANT - ID 180.pdf"
+    src="/files/ICSPC 2025 - PARTICIPANT - ID 180.pdf#toolbar=0"
     width="80%"
     height="600px"
     style="border: none;">
