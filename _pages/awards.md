@@ -3,42 +3,19 @@ permalink: /awards/
 title: "Awards & Certificates"
 ---
 
-## IEEE Conference on Systems, Process & Control
+## 2025 13th IEEE Conference on Systems, Process & Control
 **Dec 5, 2025 – Dec 6, 2025**
 
 ### Conference Introduction
-The *IEEE Conference on Systems, Process & Control (SPC)* is an annual international forum that brings together researchers, engineers, and practitioners to discuss advancements in systems engineering, automation, control theory, and process optimization.  
-The conference serves as a platform for presenting original research, exchanging technical insights, and exploring emerging trends in intelligent systems and advanced control applications.
-
+The *IEEE Conference on Systems, Process & Control (ISPC)* serves as a premier platform for researchers, industry leaders, and innovators to explore groundbreaking advancements in Artificial Intelligence, Machine Learning & Intelligent Systems, Control, Information and Systems Engineering, System Identification, Instrumentation, Automation and Robotics, Signal Processing, Speech Processing, Image Processing and others. Under the theme "Innovations in Technology", this conference will highlight transformative trends, emerging technologies, and innovative solutions that shape the future of technology and engineering.
 ---
 
 ## Conference Presentation
 
 ### Presentation Photo
-> *Insert your presentation photo below.*
 
 <div align="center">
-  <img src="assets/images/spc_presentation.jpg" alt="Presentation at IEEE SPC 2025" width="70%">
-</div>
-
----
-
-## Presentation Materials (View-Only)
-
-> *Slides are displayed as images to prevent downloading or accessing the original file.*
-
-### 🔍 Slide Preview (One-by-One)
-
-<div align="center">
-
-<img src="assets/slides/slide01.png" width="85%" alt="Slide 1">
-
-<img src="assets/slides/slide02.png" width="85%" alt="Slide 2">
-
-<img src="assets/slides/slide03.png" width="85%" alt="Slide 3">
-
-<!-- Add more slides as needed -->
-
+  <img src="images/ispc_presentation.jpg" alt="Presentation at IEEE SPC 2025" width="70%">
 </div>
 
 ---
@@ -46,17 +23,11 @@ The conference serves as a platform for presenting original research, exchanging
 ## Certificate
 
 <div align="center">
-  <iframe 
-    src="/files/ICSPC 2025 - PARTICIPANT - ID 180.pdf#toolbar=0"
-    width="80%"
-    height="600px"
-    style="border: none;">
-  </iframe>
+  <img src="/files/ICSPC 2025 - PARTICIPANT - ID 180.png">
 </div>
----
 
-## 🔗 Additional Information
-- **Conference Website:** *(Add link if available)*
-- **Presentation Title:** *Your Title Here*
-- **Session:** *Your Session Information*
+## Additional Information
+- **Conference Website:** *https://www.asprg.net/cms/conference.php?conf_id=c986860c-0552-4685-9c31-e54a3aaa96b1*
+- **Presentation Title:** *Distance to Feasibility: Performance Assessment of Baseline Metaheuristics on University Course Timetabling with Student Sectioning*
+- **Session:** *2*
 
