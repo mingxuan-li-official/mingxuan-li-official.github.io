@@ -36,6 +36,8 @@ My academic journey focuses on exploring efficient computational methods to solv
 
 ## 📘 Publications & Writing
 
+- 2025 13th IEEE Conference on Systems, Process & Control Second Author & Conference Presenter
+
 ---
 
 ## ⚙️ Skills
