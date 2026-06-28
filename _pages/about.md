@@ -15,7 +15,7 @@ Engineering**.
 My current research interests are in **operations research**, **metaheuristics**,
 and **optimization algorithms** for complex decision-making problems. I am
 particularly interested in continuing research on educational timetabling,
-student sectioning, local search, simulated annealing, and algorithm
+student sectioning, space optimization, local search, simulated annealing, and algorithm
 benchmarking.
 
 <p class="programme-note">
