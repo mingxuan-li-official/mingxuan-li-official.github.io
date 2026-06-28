@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mingxuan's Homepage"
+title                    : "Mingxuan Li"
 title_separator          : "-"
-name                     : &name "Mingxaun Li"
+name                     : &name "Mingxuan Li"
 description              : &description "Mingxuan Li's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mingxuan-li-official.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,7 +26,7 @@ author:
   avatar           : "MingxuanProfile3.jpg"
   name             : "Mingxuan Li (李明轩)"
   pronouns         : # example: "she/her"  
-  bio              : "Bachelor's candidate | QMUL & BUPT Dual Degree"
+  bio              : "Third-year undergraduate | QMUL & BUPT Joint Programme"
   location         : "Beijing, China"
   employer         : "QMUL & BUPT"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=TO8Ac6UAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0006-9735-2900"
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "mingxuan-li-b8a013394"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
