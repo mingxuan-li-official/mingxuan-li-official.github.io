@@ -1,151 +1,115 @@
 ---
 permalink: /
 title: "Mingxuan Li"
-layout: splash
-author_profile: false
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<div class="home-profile">
-  <section class="home-profile__hero" aria-labelledby="profile-title">
-    <div class="home-profile__portrait">
-      <img src="/images/MingxuanProfile3.jpg" alt="Mingxuan Li">
-    </div>
+## Biography
 
-    <div class="home-profile__intro">
-      <p class="home-profile__eyebrow">Operations Research / Metaheuristics / Timetabling</p>
-      <h1 id="profile-title">Mingxuan Li</h1>
-      <p class="home-profile__subtitle">
-        Third-year undergraduate student in the QMUL-BUPT joint degree programme.
-      </p>
-      <p class="home-profile__summary">
-        I work on optimization algorithms for complex planning problems, with a
-        current focus on university course timetabling, student sectioning, and
-        performance assessment of metaheuristic methods. I am interested in
-        continuing research in operations research and algorithm design.
-      </p>
+I am a third-year undergraduate student in the joint degree programme between
+**Beijing University of Posts and Telecommunications** and **Queen Mary
+University of London**, pursuing a dual degree in **Internet of Things
+Engineering**.
 
-      <div class="home-profile__links" aria-label="Profile links">
-        <a href="mailto:mingxuan.li@se23.qmul.ac.uk">Email</a>
-        <a href="https://scholar.google.com/citations?user=TO8Ac6UAAAAJ&hl=en">Google Scholar</a>
-        <a href="https://github.com/mingxuan-li-official">GitHub</a>
-        <a href="https://www.linkedin.com/in/mingxuan-li-b8a013394/">LinkedIn</a>
-        <a href="https://drive.google.com/file/d/12SbsWE1GafCz9lRj0Jdwh-HP61DlocnI/view?usp=drive_link">CV</a>
-      </div>
-    </div>
-  </section>
+My current research interests are in **operations research**, **metaheuristics**,
+and **optimization algorithms** for complex decision-making problems. I am
+particularly interested in continuing research on educational timetabling,
+student sectioning, local search, simulated annealing, and algorithm
+benchmarking.
 
-  <section class="home-section home-section--compact" aria-labelledby="biography">
-    <h2 id="biography">Biography</h2>
-    <p>
-      I am pursuing a BSc in Internet of Things Engineering through the joint
-      programme between Queen Mary University of London and Beijing University of
-      Posts and Telecommunications. My academic interests sit at the intersection
-      of operations research, artificial intelligence, and combinatorial
-      optimization.
-    </p>
-    <p>
-      My recent work studies how baseline and hybrid metaheuristics move toward
-      feasible, high-quality solutions for educational timetabling problems. I am
-      especially interested in making algorithmic performance more interpretable
-      through careful benchmarking, feasibility analysis, and reproducible
-      experimental design.
-    </p>
-  </section>
+## Research
 
-  <section class="home-section" aria-labelledby="research">
-    <div class="home-section__heading">
-      <h2 id="research">Selected Research</h2>
-      <p>Current and recent projects most representative of my research direction.</p>
-    </div>
+### Conference Papers
 
-    <div class="research-list">
-      <article class="research-item">
-        <p class="research-item__venue">PATAT 2026 / Accepted</p>
-        <h3>Integrative Hybrid Local Search with a Restart Strategy for University Course Timetabling with Student Sectioning</h3>
-        <p class="research-item__authors">
-          Mingxuan Li, Thomas Weise, Sina Abdipoor, Jourdan D'Orville, Say Leng
-          Goh, Razali Yaakob, and Salwani Abdullah.
-        </p>
-        <p>
-          A first-author study on hybrid local search for the ITC 2019 university
-          course timetabling with student sectioning problem.
-        </p>
-      </article>
+**C4. Integrative Hybrid Local Search with a Restart Strategy for University Course Timetabling with Student Sectioning**  
+Mingxuan Li, Thomas Weise, Sina Abdipoor, Jourdan D'Orville, Say Leng Goh,
+Razali Yaakob, and Salwani Abdullah.  
+*The 15th Conference on the Practice and Theory of Automated Timetabling
+(PATAT'26).* Accepted.
 
-      <article class="research-item">
-        <p class="research-item__venue">IEEE ICSPC 2025 / Published</p>
-        <h3>
-          <a href="https://ieeexplore.ieee.org/abstract/document/11325835/">
-            Distance to Feasibility: Performance Assessment of Baseline Metaheuristics on University Course Timetabling with Student Sectioning
-          </a>
-        </h3>
-        <p class="research-item__authors">
-          Sina Abdipoor, Mingxuan Li, Say Leng Goh, Razali Yaakob, Luo Hao, and
-          Salwani Abdullah.
-        </p>
-        <p>
-          This paper evaluates how baseline metaheuristics approach feasibility,
-          moving beyond final objective values to examine progress under complex
-          scheduling constraints.
-        </p>
-      </article>
+**C3. SpOC 4 Challenges 1 Beginner: Permutation Encodings and Challenge 3: Simulated Annealing for the Luna Tomato Advertising**  
+Mingxuan Li, Thomas Weise, Sina Abdipoor, and Zhize Wu.  
+*Genetic and Evolutionary Computation Conference (GECCO'26).* Accepted.
 
-      <article class="research-item">
-        <p class="research-item__venue">GECCO 2026 / Accepted</p>
-        <h3>Space Optimization Competition Papers</h3>
-        <p>
-          Work on permutation encodings, simulated annealing, and multi-step
-          representations for SpOC 4 challenge problems related to logistics,
-          advertising, and Keplerian traveling salesperson scenarios.
-        </p>
-      </article>
-    </div>
-  </section>
+**C2. Solving the SpOC 4 Challenge 2 with a Multi-Step Permutation Encoding for the Keplerian Traveling Salesperson**  
+Thomas Weise, Sina Abdipoor, Mingxuan Li, and Zhize Wu.  
+*Genetic and Evolutionary Computation Conference (GECCO'26).* Accepted.
 
-  <section class="home-section feature-video" aria-labelledby="presentation">
-    <div class="feature-video__copy">
-      <p class="home-profile__eyebrow">Featured Presentation</p>
-      <h2 id="presentation">Distance to Feasibility</h2>
-      <p>
-        I recorded this presentation for my first published paper on performance
-        assessment of baseline metaheuristics for university course timetabling
-        with student sectioning.
-      </p>
-    </div>
+**C1. [Distance to Feasibility: Performance Assessment of Baseline Metaheuristics on University Course Timetabling with Student Sectioning](https://ieeexplore.ieee.org/abstract/document/11325835/)**  
+Sina Abdipoor, Mingxuan Li, Say Leng Goh, Razali Yaakob, Luo Hao, and Salwani
+Abdullah.  
+*IEEE ICSPC'25.* Presenter.
 
-    <div class="feature-video__embed">
-      <iframe
-        src="https://www.youtube.com/embed/VjT95G3qsIE"
-        title="Distance to Feasibility presentation by Mingxuan Li"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen>
-      </iframe>
-    </div>
-  </section>
+### Journal Papers
 
-  <section class="home-section home-section--two-column" aria-labelledby="highlights">
-    <div>
-      <h2 id="highlights">Highlights</h2>
-      <ul class="clean-list">
-        <li>BUPT University-Level Scholarship, 2025.</li>
-        <li>First Prize, "Zhilian Cup" National University Intelligence & Computing Competition, 2025.</li>
-        <li>Second Prize, 14th Asia-Pacific Mathematical Contest in Modeling, 2024.</li>
-        <li>Second Prize, "Huaqing Cup" National College Student Innovation & Programming Competition, 2026.</li>
-      </ul>
-    </div>
+**J2. Educational Timetabling: Trends, Obstacles, and Prospects**  
+*Operations Research and Decisions*, 2026. Under review.
 
-    <div>
-      <h2>Research Interests</h2>
-      <ul class="clean-list">
-        <li>Metaheuristics and hybrid local search.</li>
-        <li>Educational timetabling and student sectioning.</li>
-        <li>Algorithm benchmarking and feasibility analysis.</li>
-        <li>Combinatorial optimization for real-world decision problems.</li>
-      </ul>
-    </div>
-  </section>
+**J1. An Integration of Discrete Wavelet Transform and Time-series Recurrent Neural Network to Improve Stock Price Prediction**  
+*Applied Computing and Informatics*, 2026. Under review.
+
+### Research Projects
+
+**R2. Space Optimization Competition (SpOC 4)**, 2026  
+An official European Space Agency (ESA) competition focusing on complex
+optimization problems in space mission planning, operations, and logistics
+through advanced metaheuristic and AI approaches.
+
+**R1. International Timetabling Competition (ITC 2019)**, 2025-2026  
+A prestigious international competition focusing on complex university course
+timetabling problems through advanced optimization and metaheuristic algorithms.
+
+## News
+
+- **June 2026:** My academic CV was updated with accepted papers at PATAT'26 and
+  GECCO'26.
+- **2025:** I presented our paper
+  *Distance to Feasibility: Performance Assessment of Baseline Metaheuristics on
+  University Course Timetabling with Student Sectioning* at IEEE ICSPC'25.
+  A recorded presentation is available on
+  [YouTube](https://youtu.be/VjT95G3qsIE).
+
+<div class="news-video">
+  <iframe
+    src="https://www.youtube.com/embed/VjT95G3qsIE"
+    title="Distance to Feasibility presentation by Mingxuan Li"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
 </div>
+
+<style>
+.news-video {
+  position: relative;
+  width: 100%;
+  max-width: 720px;
+  margin: 1em 0;
+  padding-top: 56.25%;
+  background: #f2f2f2;
+}
+
+.news-video iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
+## Education
+
+**Beijing University of Posts and Telecommunications** / **Queen Mary University
+of London**  
+Dual Degree, Internet of Things Engineering, 2023-2027.  
+GPA: 3.38 / 4.0; IELTS: 6.0; CET-6.
+
+## Skills
+
+**Languages:** English (IELTS 6.0), Mandarin (Native)  
+**Technical:** Python, C++, Java, PowerBI, LaTeX, Git, Linux  
+**Operations Research:** Metaheuristics, local search, simulated annealing,
+genetic algorithms, mathematical modeling
