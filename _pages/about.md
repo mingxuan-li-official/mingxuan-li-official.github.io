@@ -23,6 +23,20 @@ I am currently looking for Master's / PhD programme opportunities. If you are
 interested in my research background, please feel free to contact me.
 </p>
 
+## News
+
+<p class="news-caption">ICSPC presentation video: <em>Distance to Feasibility</em>.</p>
+
+<div class="news-video">
+  <iframe
+    src="https://www.youtube.com/embed/VjT95G3qsIE"
+    title="Distance to Feasibility presentation by Mingxuan Li"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ## Research
 
 ### Conference Papers
@@ -75,32 +89,23 @@ interested in my research background, please feel free to contact me.
   <p>A prestigious international competition focusing on complex university course timetabling problems through advanced optimization and metaheuristic algorithms.</p>
 </div>
 
-## News
-
-<div class="news-video">
-  <iframe
-    src="https://www.youtube.com/embed/VjT95G3qsIE"
-    title="Distance to Feasibility presentation by Mingxuan Li"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
 <style>
 .news-video {
-  position: relative;
   width: 100%;
   max-width: 720px;
-  margin: 1em 0;
-  padding-top: 56.25%;
+  aspect-ratio: 16 / 9;
+  margin: 0.5em 0 1.5em;
 }
 
 .news-video iframe {
-  position: absolute;
-  inset: 0;
+  display: block;
   width: 100%;
   height: 100%;
+}
+
+.news-caption {
+  margin-bottom: 0.5em;
+  color: #555;
 }
 
 .programme-note {
