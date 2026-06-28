@@ -1,165 +1,151 @@
 ---
 permalink: /
 title: "Mingxuan Li"
-author_profile: true
-redirect_from: 
+layout: splash
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
-<div class="academic-home">
 
-<p class="lead">
-I am a third-year undergraduate student in the joint degree programme between
-<strong>Queen Mary University of London</strong> and
-<strong>Beijing University of Posts and Telecommunications</strong>. My current
-work is centered on operations research, metaheuristic optimization, and
-computational methods for complex scheduling and decision-making problems.
-</p>
+<div class="home-profile">
+  <section class="home-profile__hero" aria-labelledby="profile-title">
+    <div class="home-profile__portrait">
+      <img src="/images/MingxuanProfile3.jpg" alt="Mingxuan Li">
+    </div>
 
-<p>
-I am particularly interested in continuing research in optimization algorithms
-and their applications to real-world planning problems, especially educational
-timetabling, student sectioning, and large-scale combinatorial optimization.
-</p>
+    <div class="home-profile__intro">
+      <p class="home-profile__eyebrow">Operations Research / Metaheuristics / Timetabling</p>
+      <h1 id="profile-title">Mingxuan Li</h1>
+      <p class="home-profile__subtitle">
+        Third-year undergraduate student in the QMUL-BUPT joint degree programme.
+      </p>
+      <p class="home-profile__summary">
+        I work on optimization algorithms for complex planning problems, with a
+        current focus on university course timetabling, student sectioning, and
+        performance assessment of metaheuristic methods. I am interested in
+        continuing research in operations research and algorithm design.
+      </p>
 
-<p>
-<strong>Research areas:</strong> operations research; metaheuristics; university
-course timetabling; student sectioning; simulated annealing; hybrid local
-search; algorithm benchmarking.
-</p>
+      <div class="home-profile__links" aria-label="Profile links">
+        <a href="mailto:mingxuan.li@se23.qmul.ac.uk">Email</a>
+        <a href="https://scholar.google.com/citations?user=TO8Ac6UAAAAJ&hl=en">Google Scholar</a>
+        <a href="https://github.com/mingxuan-li-official">GitHub</a>
+        <a href="https://www.linkedin.com/in/mingxuan-li-b8a013394/">LinkedIn</a>
+        <a href="https://drive.google.com/file/d/12SbsWE1GafCz9lRj0Jdwh-HP61DlocnI/view?usp=drive_link">CV</a>
+      </div>
+    </div>
+  </section>
 
-<p>
-<strong>Profiles:</strong>
-<a href="https://scholar.google.com/citations?user=TO8Ac6UAAAAJ&hl=en">Google Scholar</a>
- · <a href="https://github.com/mingxuan-li-official">GitHub</a>
- · <a href="https://www.linkedin.com/in/mingxuan-li-b8a013394/">LinkedIn</a>
- · <a href="mailto:mingxuan.li@se23.qmul.ac.uk">Email</a>
-</p>
+  <section class="home-section home-section--compact" aria-labelledby="biography">
+    <h2 id="biography">Biography</h2>
+    <p>
+      I am pursuing a BSc in Internet of Things Engineering through the joint
+      programme between Queen Mary University of London and Beijing University of
+      Posts and Telecommunications. My academic interests sit at the intersection
+      of operations research, artificial intelligence, and combinatorial
+      optimization.
+    </p>
+    <p>
+      My recent work studies how baseline and hybrid metaheuristics move toward
+      feasible, high-quality solutions for educational timetabling problems. I am
+      especially interested in making algorithmic performance more interpretable
+      through careful benchmarking, feasibility analysis, and reproducible
+      experimental design.
+    </p>
+  </section>
 
-<hr>
+  <section class="home-section" aria-labelledby="research">
+    <div class="home-section__heading">
+      <h2 id="research">Selected Research</h2>
+      <p>Current and recent projects most representative of my research direction.</p>
+    </div>
 
-## Education
+    <div class="research-list">
+      <article class="research-item">
+        <p class="research-item__venue">PATAT 2026 / Accepted</p>
+        <h3>Integrative Hybrid Local Search with a Restart Strategy for University Course Timetabling with Student Sectioning</h3>
+        <p class="research-item__authors">
+          Mingxuan Li, Thomas Weise, Sina Abdipoor, Jourdan D'Orville, Say Leng
+          Goh, Razali Yaakob, and Salwani Abdullah.
+        </p>
+        <p>
+          A first-author study on hybrid local search for the ITC 2019 university
+          course timetabling with student sectioning problem.
+        </p>
+      </article>
 
-<strong>Queen Mary University of London & Beijing University of Posts and Telecommunications</strong>  
-Dual Degree / Joint Programme, BSc Internet of Things Engineering  
-Current standing: third-year undergraduate student  
-GPA: 85.64 / 100, 3.38 / 4.00 for the first five semesters
+      <article class="research-item">
+        <p class="research-item__venue">IEEE ICSPC 2025 / Published</p>
+        <h3>
+          <a href="https://ieeexplore.ieee.org/abstract/document/11325835/">
+            Distance to Feasibility: Performance Assessment of Baseline Metaheuristics on University Course Timetabling with Student Sectioning
+          </a>
+        </h3>
+        <p class="research-item__authors">
+          Sina Abdipoor, Mingxuan Li, Say Leng Goh, Razali Yaakob, Luo Hao, and
+          Salwani Abdullah.
+        </p>
+        <p>
+          This paper evaluates how baseline metaheuristics approach feasibility,
+          moving beyond final objective values to examine progress under complex
+          scheduling constraints.
+        </p>
+      </article>
 
-## Research
+      <article class="research-item">
+        <p class="research-item__venue">GECCO 2026 / Accepted</p>
+        <h3>Space Optimization Competition Papers</h3>
+        <p>
+          Work on permutation encodings, simulated annealing, and multi-step
+          representations for SpOC 4 challenge problems related to logistics,
+          advertising, and Keplerian traveling salesperson scenarios.
+        </p>
+      </article>
+    </div>
+  </section>
 
-### University Course Timetabling and Student Sectioning
+  <section class="home-section feature-video" aria-labelledby="presentation">
+    <div class="feature-video__copy">
+      <p class="home-profile__eyebrow">Featured Presentation</p>
+      <h2 id="presentation">Distance to Feasibility</h2>
+      <p>
+        I recorded this presentation for my first published paper on performance
+        assessment of baseline metaheuristics for university course timetabling
+        with student sectioning.
+      </p>
+    </div>
 
-My recent research focuses on the International Timetabling Competition 2019
-problem setting, where university course timetabling and student sectioning must
-be optimized under complex real-world constraints. This work studies both
-solution quality and feasibility behavior, with attention to how baseline and
-hybrid metaheuristics progress toward feasible and high-quality timetables.
+    <div class="feature-video__embed">
+      <iframe
+        src="https://www.youtube.com/embed/VjT95G3qsIE"
+        title="Distance to Feasibility presentation by Mingxuan Li"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </section>
 
-Selected work in this direction includes:
+  <section class="home-section home-section--two-column" aria-labelledby="highlights">
+    <div>
+      <h2 id="highlights">Highlights</h2>
+      <ul class="clean-list">
+        <li>BUPT University-Level Scholarship, 2025.</li>
+        <li>First Prize, "Zhilian Cup" National University Intelligence & Computing Competition, 2025.</li>
+        <li>Second Prize, 14th Asia-Pacific Mathematical Contest in Modeling, 2024.</li>
+        <li>Second Prize, "Huaqing Cup" National College Student Innovation & Programming Competition, 2026.</li>
+      </ul>
+    </div>
 
-- <strong>Integrative Hybrid Local Search with a Restart Strategy for University Course Timetabling with Student Sectioning</strong>  
-  Mingxuan Li, Thomas Weise, Sina Abdipoor, Jourdan D'Orville, Say Leng Goh, Razali Yaakob, and Salwani Abdullah.  
-  Accepted at the 15th Conference on the Practice and Theory of Automated Timetabling (PATAT), 2026.
-
-- <strong><a href="https://ieeexplore.ieee.org/abstract/document/11325835/">Distance to Feasibility: Performance Assessment of Baseline Metaheuristics on University Course Timetabling with Student Sectioning</a></strong>  
-  Sina Abdipoor, Mingxuan Li, Say Leng Goh, Razali Yaakob, Luo Hao, and Salwani Abdullah.  
-  IEEE 13th Conference on Systems, Process & Control, 2025. Presenter.
-
-### Space Optimization Competition
-
-I have also worked on optimization problems from the Space Optimization
-Competition, including permutation encodings and simulated annealing for
-space-logistics-inspired challenge settings organized in connection with ESA
-and GECCO.
-
-Selected accepted papers:
-
-- <strong>SpOC 4 Challenges 1 Beginner: Permutation Encodings and Challenge 3: Simulated Annealing for the Luna Tomato Advertising</strong>  
-  Mingxuan Li, Thomas Weise, Sina Abdipoor, and Zhize Wu. GECCO, 2026.
-
-- <strong>Solving the SpOC 4 Challenge 2 with a Multi-Step Permutation Encoding for the Keplerian Traveling Salesperson</strong>  
-  Thomas Weise, Sina Abdipoor, Mingxuan Li, and Zhize Wu. GECCO, 2026.
-
-## Featured Presentation
-
-<p>
-In this video, I introduce my first published paper,
-<em>Distance to Feasibility: Performance Assessment of Baseline Metaheuristics on
-University Course Timetabling with Student Sectioning</em>.
-</p>
-
-<div class="video-wrapper">
-  <iframe
-    src="https://www.youtube.com/embed/VjT95G3qsIE"
-    title="Distance to Feasibility presentation by Mingxuan Li"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
+    <div>
+      <h2>Research Interests</h2>
+      <ul class="clean-list">
+        <li>Metaheuristics and hybrid local search.</li>
+        <li>Educational timetabling and student sectioning.</li>
+        <li>Algorithm benchmarking and feasibility analysis.</li>
+        <li>Combinatorial optimization for real-world decision problems.</li>
+      </ul>
+    </div>
+  </section>
 </div>
-
-## Manuscripts Under Review
-
-- <strong>Educational Timetabling: Trends, Obstacles, and Prospects</strong>  
-  Submitted to <em>Operations Research and Decisions</em>, 2026.
-
-- <strong>An Integration of Discrete Wavelet Transform and Time-series Recurrent Neural Network to Improve Stock Price Prediction</strong>  
-  Submitted to <em>Applied Computing and Informatics</em>, 2026.
-
-## Honors and Awards
-
-- BUPT University-Level Scholarship, 2025.
-- First Prize, "Zhilian Cup" National University Intelligence & Computing Competition, 2025.
-- Second Prize, 14th Asia-Pacific Mathematical Contest in Modeling, 2024.
-- Second Prize, "Huaqing Cup" National College Student Innovation & Programming Competition, 2026.
-
-## Skills
-
-<strong>Programming:</strong> Python, C++, Java  
-<strong>Research tools:</strong> LaTeX, Git, Linux, PowerBI  
-<strong>Languages:</strong> Mandarin Chinese, English
-
-</div>
-
-<style>
-.academic-home .lead {
-  font-size: 1.08em;
-  line-height: 1.75;
-  color: #303030;
-}
-
-.academic-home p,
-.academic-home li {
-  line-height: 1.7;
-}
-
-.academic-home h2 {
-  margin-top: 1.7em;
-  padding-bottom: 0.25em;
-  border-bottom: 1px solid #d9d9d9;
-}
-
-.academic-home h3 {
-  margin-top: 1.35em;
-  color: #333;
-}
-
-.academic-home hr {
-  margin: 1.5em 0;
-}
-
-.video-wrapper {
-  position: relative;
-  width: 100%;
-  margin: 1em 0 1.5em;
-  padding-top: 56.25%;
-  background: #f4f4f4;
-}
-
-.video-wrapper iframe {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
