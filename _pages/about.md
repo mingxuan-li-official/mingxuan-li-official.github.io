@@ -29,7 +29,7 @@ interested in my research background, please feel free to contact me.
   <h3>2026</h3>
 
   <p>
-    <span class="news-date">Jun 30th:</span>
+    <span class="news-date">Jul 1st:</span>
     Our paper <em>Discrete-Continuous Fleet Optimization for Lunar Occultation Broadcasting</em>
     is participating in the
     <a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize/Undergraduate-Operations-Research-Prize-Application-Process">INFORMS Undergraduate Operations Research Prize</a>.
@@ -54,14 +54,14 @@ interested in my research background, please feel free to contact me.
   <p>
     <span class="news-date">May 5th:</span>
     <em>SpOC 4 Challenges 1 Beginner: Permutation Encodings and Challenge 3: Simulated Annealing for the Luna Tomato Advertising</em>
-    has been accepted as a paper for the Competition at
+    was accepted by
     <a href="https://gecco-2026.sigevo.org/HomePage">GECCO 2026</a>.
   </p>
 
   <p>
     <span class="news-date">May 5th:</span>
     <em>Solving the SpOC 4 Challenge 2 with a Multi-Step Permutation Encoding for the Keplerian Traveling Salesperson</em>
-    has been accepted as a paper for the Competition at
+    was accepted by
     <a href="https://gecco-2026.sigevo.org/HomePage">GECCO 2026</a>.
   </p>
 
