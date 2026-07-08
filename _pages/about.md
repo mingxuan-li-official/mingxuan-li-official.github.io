@@ -44,7 +44,7 @@ interested in my research background, please feel free to contact me.
 
   <p>
     <span class="news-date">Dec 5th, 2025:</span>
-    IEEE ICSPC'25 presentation video.
+    IEEE 13th Conference on Systems, Process & Control (ICSPC'25) presentation video.
   </p>
 </div>
 
