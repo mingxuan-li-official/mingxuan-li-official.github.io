@@ -23,8 +23,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-  - title: "Awards and Certificates"
-    url: /awards/
+#  - title: "Awards and Certificates"
+#    url: /awards/
     
   - title: "CV"
     url: https://drive.google.com/file/d/10Zwcyyi3yS2m0oNLfFyLvql87cO0Fuxm/view?usp=drive_link
