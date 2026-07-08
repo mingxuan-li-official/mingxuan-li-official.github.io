@@ -26,15 +26,17 @@ interested in my research background, please feel free to contact me.
 ## News
 
 <div class="news-list">
+  <h3>2026</h3>
+
   <p>
-    <span class="news-date">Jun 30th, 2026:</span>
+    <span class="news-date">Jun 30th:</span>
     Our paper <em>Discrete-Continuous Fleet Optimization for Lunar Occultation Broadcasting</em>
     is participating in the
     <a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize/Undergraduate-Operations-Research-Prize-Application-Process">INFORMS Undergraduate Operations Research Prize</a>.
   </p>
 
   <p>
-    <span class="news-date">Jun 30th, 2026:</span>
+    <span class="news-date">Jun 30th:</span>
     Our team ranked <strong>9th globally</strong> in
     <a href="https://github.com/esa/SpOC4/discussions/13">SpOC 4</a>.
     We ranked <strong>3rd globally</strong> on the
@@ -43,7 +45,25 @@ interested in my research background, please feel free to contact me.
   </p>
 
   <p>
-    <span class="news-date">Dec 5th, 2025:</span>
+    <span class="news-date">May 16th:</span>
+    <em>Integrative Hybrid Local Search with a Restart Strategy for University Course Timetabling with Student Sectioning</em>
+    was accepted by
+    <a href="https://patatconference.org/patat2026/">PATAT 2026</a>.
+  </p>
+
+  <p>
+    <span class="news-date">May 5th:</span>
+    <em>SpOC 4 Challenges 1 Beginner: Permutation Encodings and Challenge 3: Simulated Annealing for the Luna Tomato Advertising</em>
+    and
+    <em>Solving the SpOC 4 Challenge 2 with a Multi-Step Permutation Encoding for the Keplerian Traveling Salesperson</em>
+    have been accepted as papers for the Competition at
+    <a href="https://gecco-2026.sigevo.org/HomePage">GECCO 2026</a>.
+  </p>
+
+  <h3>2025</h3>
+
+  <p>
+    <span class="news-date">Dec 5th:</span>
     IEEE 13th Conference on Systems, Process & Control (ICSPC'25) presentation video.
   </p>
 </div>
@@ -74,6 +94,15 @@ interested in my research background, please feel free to contact me.
 
 .news-list {
   margin-bottom: 0.75em;
+}
+
+.news-list h3 {
+  margin: 1em 0 0.5em;
+  font-size: 1em;
+}
+
+.news-list h3:first-child {
+  margin-top: 0;
 }
 
 .news-list p {
