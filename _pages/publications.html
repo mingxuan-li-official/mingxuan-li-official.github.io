@@ -6,31 +6,62 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<h2>Conference Papers</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="publication-entry">
+  <p class="publication-title">Integrative Hybrid Local Search with a Restart Strategy for University Course Timetabling with Student Sectioning</p>
+  <p class="publication-authors"><strong>Mingxuan Li</strong>, Thomas Weise, Sina Abdipoor, Jourdan D'Orville, Say Leng Goh, Razali Yaakob, and Salwani Abdullah.</p>
+  <p class="publication-venue">The 15th Conference on the Practice and Theory of Automated Timetabling (PATAT'26). Accepted.</p>
+</div>
 
+<div class="publication-entry">
+  <p class="publication-title">SpOC 4 Challenges 1 Beginner: Permutation Encodings and Challenge 3: Simulated Annealing for the Luna Tomato Advertising</p>
+  <p class="publication-authors"><strong>Mingxuan Li</strong>, Thomas Weise, Sina Abdipoor, and Zhize Wu.</p>
+  <p class="publication-venue">Genetic and Evolutionary Computation Conference (GECCO'26). Accepted.</p>
+</div>
 
+<div class="publication-entry">
+  <p class="publication-title">Solving the SpOC 4 Challenge 2 with a Multi-Step Permutation Encoding for the Keplerian Traveling Salesperson</p>
+  <p class="publication-authors">Thomas Weise, Sina Abdipoor, <strong>Mingxuan Li</strong>, and Zhize Wu.</p>
+  <p class="publication-venue">Genetic and Evolutionary Computation Conference (GECCO'26). Accepted.</p>
+</div>
 
+<div class="publication-entry">
+  <p class="publication-title"><a href="https://ieeexplore.ieee.org/abstract/document/11325835/">Distance to Feasibility: Performance Assessment of Baseline Metaheuristics on University Course Timetabling with Student Sectioning</a></p>
+  <p class="publication-authors">Sina Abdipoor, <strong>Mingxuan Li</strong>, Say Leng Goh, Razali Yaakob, Luo Hao, and Salwani Abdullah.</p>
+  <p class="publication-venue">IEEE ICSPC'25. Presenter.</p>
+</div>
+
+<h2>Journal Papers</h2>
+
+<div class="publication-entry">
+  <p class="publication-title">Educational Timetabling: Trends, Obstacles, and Prospects</p>
+  <p class="publication-venue">Operations Research and Decisions, 2026. Under review.</p>
+</div>
+
+<div class="publication-entry">
+  <p class="publication-title">An Integration of Discrete Wavelet Transform and Time-series Recurrent Neural Network to Improve Stock Price Prediction</p>
+  <p class="publication-venue">Applied Computing and Informatics, 2026. Under review.</p>
+</div>
+
+<style>
+.publication-entry {
+  margin: 0 0 1.25em;
+}
+
+.publication-entry p {
+  margin-bottom: 0.25em;
+}
+
+.publication-title {
+  font-weight: 700;
+}
+
+.publication-venue {
+  color: #777;
+  font-size: 0.92em;
+}
+</style>

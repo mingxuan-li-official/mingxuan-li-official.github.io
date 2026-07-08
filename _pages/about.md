@@ -25,7 +25,30 @@ interested in my research background, please feel free to contact me.
 
 ## News
 
-<p class="news-caption">ICSPC presentation video: <em>Distance to Feasibility</em>.</p>
+<div class="news-list">
+  <p>
+    <span class="news-date">Jun 30th:</span>
+    Our paper <em>Discrete-Continuous Fleet Optimization for Lunar Occultation Broadcasting</em>
+    is participating in the
+    <a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize/Undergraduate-Operations-Research-Prize-Application-Process">INFORMS Undergraduate Operations Research Prize</a>.
+  </p>
+
+  <p>
+    <span class="news-date">Jun 30th:</span>
+    Our team ranked <strong>9th globally</strong> in
+    <a href="https://github.com/esa/SpOC4/discussions/13">SpOC 4</a>.
+    In particular, we ranked <strong>3rd globally</strong> on the
+    <a href="https://optimise.esa.int/challenge/spoc-4-luna-tomato-advertising/About">SpOC 4: Luna Tomato Advertising</a>
+    /
+    <a href="https://optimise.esa.int/challenge/spoc-4-luna-tomato-advertising/p/tie-breaker">Tie-breaker</a>
+    problem.
+  </p>
+
+  <p>
+    <span class="news-date">Dec 5th:</span>
+    ICSPC presentation video for <em>Distance to Feasibility</em>.
+  </p>
+</div>
 
 <div class="news-video">
   <iframe
@@ -103,9 +126,17 @@ interested in my research background, please feel free to contact me.
   height: 100%;
 }
 
-.news-caption {
-  margin-bottom: 0.5em;
+.news-list {
+  margin-bottom: 0.75em;
+}
+
+.news-list p {
+  margin-bottom: 0.65em;
+}
+
+.news-date {
   color: #555;
+  font-weight: 700;
 }
 
 .programme-note {
