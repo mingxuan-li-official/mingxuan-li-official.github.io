@@ -53,11 +53,12 @@ interested in my research background, please feel free to contact me.
 
   <p>
     <span class="news-date">May 5th:</span>
-    <em>SpOC 4 Challenges 1 Beginner: Permutation Encodings and Challenge 3: Simulated Annealing for the Luna Tomato Advertising</em>
-    and
-    <em>Solving the SpOC 4 Challenge 2 with a Multi-Step Permutation Encoding for the Keplerian Traveling Salesperson</em>
-    have been accepted as papers for the Competition at
+    Two papers have been accepted for the Competition at
     <a href="https://gecco-2026.sigevo.org/HomePage">GECCO 2026</a>.
+    <br>
+    <em>SpOC 4 Challenges 1 Beginner: Permutation Encodings and Challenge 3: Simulated Annealing for the Luna Tomato Advertising</em>
+    <br>
+    <em>Solving the SpOC 4 Challenge 2 with a Multi-Step Permutation Encoding for the Keplerian Traveling Salesperson</em>
   </p>
 
   <h3>2025</h3>
