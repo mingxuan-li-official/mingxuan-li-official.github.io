@@ -15,7 +15,7 @@ Engineering**.
 My current research interests are in **operations research**, **metaheuristics**,
 and **optimization algorithms** for complex decision-making problems. I am
 particularly interested in continuing research on educational timetabling,
-student sectioning, space optimization, local search, simulated annealing, and algorithm
+student sectioning, space optimization, local search, and algorithm
 benchmarking.
 
 <p class="programme-note">
@@ -38,8 +38,8 @@ interested in my research background, please feel free to contact me.
   <p>
     <span class="news-date">Jun 30th:</span>
     Our team ranked <strong>9th globally</strong> in
-    <a href="https://github.com/esa/SpOC4/discussions/13">SpOC 4</a>.
-    We ranked <strong>3rd globally</strong> on the
+    <a href="https://github.com/esa/SpOC4/discussions/13">SpOC 4</a>
+    and ranked <strong>3rd globally</strong> on the
     <a href="https://optimise.esa.int/challenge/spoc-4-luna-tomato-advertising/p/tie-breaker">SpOC 4: Luna Tomato Advertising</a>
     problem.
   </p>
@@ -53,12 +53,16 @@ interested in my research background, please feel free to contact me.
 
   <p>
     <span class="news-date">May 5th:</span>
-    Two papers have been accepted for the Competition at
-    <a href="https://gecco-2026.sigevo.org/HomePage">GECCO 2026</a>.
-    <br>
     <em>SpOC 4 Challenges 1 Beginner: Permutation Encodings and Challenge 3: Simulated Annealing for the Luna Tomato Advertising</em>
-    <br>
+    has been accepted as a paper for the Competition at
+    <a href="https://gecco-2026.sigevo.org/HomePage">GECCO 2026</a>.
+  </p>
+
+  <p>
+    <span class="news-date">May 5th:</span>
     <em>Solving the SpOC 4 Challenge 2 with a Multi-Step Permutation Encoding for the Keplerian Traveling Salesperson</em>
+    has been accepted as a paper for the Competition at
+    <a href="https://gecco-2026.sigevo.org/HomePage">GECCO 2026</a>.
   </p>
 
   <h3>2025</h3>
