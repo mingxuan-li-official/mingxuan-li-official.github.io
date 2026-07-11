@@ -38,7 +38,7 @@ interested in my research background, please feel free to contact me.
   <p>
     <span class="news-date">Jun 30th:</span>
     Our team ranked <strong>9th globally</strong> in
-    <a href="https://github.com/esa/SpOC4/discussions/13">SpOC 4</a>
+    <a href="https://github.com/esa/SpOC4/discussions/13">Space Optimization Competition 4</a>
     and ranked <strong>3rd globally</strong> on the
     <a href="https://optimise.esa.int/challenge/spoc-4-luna-tomato-advertising/p/tie-breaker">SpOC 4: Luna Tomato Advertising</a>
     problem.
